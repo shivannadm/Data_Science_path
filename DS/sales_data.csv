@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Quantity_Sold,Price,Sale_Date
+1,Laptop,Electronics,10,800,2025-01-13
+2,Mouse,Electronics,4,20,2025-01-22
+2,Mouse,Electronics,4,20,2025-01-13
+2,Mouse,Electronics,10,20,2025-01-28
+1,Laptop,Electronics,8,800,2025-01-02
+3,T-Shirt,Clothing,8,15,2025-01-07
+2,Mouse,Electronics,7,20,2025-01-14
+3,T-Shirt,Clothing,1,15,2025-01-14
+4,Jeans,Clothing,6,40,2025-01-05
+3,T-Shirt,Clothing,7,15,2025-01-30
